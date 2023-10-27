@@ -138,10 +138,10 @@ footer {
 
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(../assets/bg-desktop.jpg);
+    --bg-url: url(assets/bg-desktop.jpg);
   }
   .light {
-    --bg-url: url(../assets/bg-desktop-light);
+    --bg-url: url(assets/bg-desktop-light);
   }
 }
 @keyframes slide-in {
