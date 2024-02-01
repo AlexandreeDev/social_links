@@ -26,8 +26,8 @@ An application for professional or private profiles where you can link websites.
 
 Some of the technologies used in this project are:
 
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [HTML](https://html.com/)
 ## Running the Project
 
 #### Clone Repository
